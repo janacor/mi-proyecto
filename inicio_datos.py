@@ -1,0 +1,3 @@
+from gestor_jugadores import menu_alta_jugadores
+
+menu_alta_jugadores()
