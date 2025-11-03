@@ -1,24 +1,18 @@
 <table>
   <tr>
-    <th><h3>🔧 Módulo / Equipo</h3></th>
+    <th><h3>🔧 Tipo  / Equipo</h3></th>
     <th><h3>🧾 Descripción detallada</h3></th>
-    <th><h3>📊 Estado</h3></th>
-    <th><h3>👤 Técnico responsable</h3></th>
-    <th><h3>🕓 Fecha / Observaciones</h3></th>
+    <th><h3>📊 Dataset</h3></th>
+    <th><h3>👤 Enlace</h3></th>
   </tr>
 
   <tr>
-    <td><b>Amplificador de línea 1</b></td>
+    <td><b>Geeral 1</b></td>
     <td>
-      Se detectó ruido en la línea.  
-      Tras la revisión, se comprobó que el potenciómetro anterior estaba mal conectado.  
-      Se sustituyó y se dejaron las conexiones conforme al esquema original.  
-      Aun así, el ruido persiste, por lo que se determina que el fallo proviene del amplificador.  
-      Se recomienda revisión por la empresa responsable del mantenimiento.
+  Spambase, creado en Hewlett-Packard Labs, tiene una colección de correos electrónicos no deseados de los usuarios, con el objetivo de desarrollar un filtro de correo no deseado personalizado. Tiene más de 4600 observaciones de mensajes de correo electrónico, de las cuales cerca de 1820 son spam.
     </td>
-    <td>⚙️ Pendiente de revisión</td>
+    <td>⚙️ Spambase de UCI</td>
     <td>Jaime Martínez</td>
-    <td>31/10/2025 — Avisado el manager Eric</td>
   </tr>
 
   <tr>
@@ -30,7 +24,6 @@
     </td>
     <td>🔍 En diagnóstico</td>
     <td>Jaime Martínez</td>
-    <td>31/10/2025</td>
   </tr>
 
   <tr>
@@ -42,6 +35,6 @@
     </td>
     <td>✅ Operativo</td>
     <td>Jaime Martínez</td>
-    <td>31/10/2025</td>
+
   </tr>
 </table>
