@@ -2,5 +2,4 @@
 |-------------------------|------------------------------|----------------|-----------------------------|-------------------------------|
 | **General** | Spambase, creado en Hewlett-Packard Labs, tiene una colección de correos electrónicos no deseados de los usuarios, con el objetivo de desarrollar un filtro de correo no deseado personalizado. Tiene más de 4600 observaciones de mensajes de correo electrónico, de las cuales cerca de 1820 son spam. | ⚙️ Spambase de UCI | https://archive.ics.uci.edu/ml/datasets/Spambase |
 | **Nova Video Wall Splicer H5** | Se intentó cambiar el contenido por color sólido (para localización de módulos) accediendo vía IP. No fue posible aplicar el cambio desde la interfaz de control. Se requiere revisar la configuración de salida o acceso a funciones avanzadas del software. | 🔍 En diagnóstico | Jaime Martínez | 31/10/2025 |
-| **Panel de control sala principal** | Todo en funcionamiento correcto. Se verificó la alimentación, conexiones y funcionamiento de los botones físicos y controles remotos. No se detectan incidencias. | ✅ Operativo | Jaime Martínez | 31/10/2025 |
-
+| **Panel de control sala principal** | Todo en funcionamiento correcto. Se verificó la alimentación, conexiones y funcionamiento de los botones físicos y controles remotos. No se detectan incidencias. | ✅ Operativo | 
